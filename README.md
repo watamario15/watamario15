@@ -15,13 +15,13 @@
 - **[tetris](https://github.com/OUCC/tetris)** \[Ported\]
   - Tetris for [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/) (unofficial)
   - [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)向けテトリス（非公式）
-- **[大喜利伝言ゲーム](https://github.com/littlegirl0820/semi-b)** \[Group\]
-  - [Gartic Phone](https://garticphone.com/), but adopted for the Japanese comedy "Ohgiri" in [Svelte](https://svelte.dev/) + TypeScript
+- **[大喜利伝言ゲーム](https://github.com/littlegirl0820/semi-b)** \[Team\]
+  - [Gartic Phone](https://garticphone.com/), but adapted for the Japanese comedy "Ohgiri" in [Svelte](https://svelte.dev/) + TypeScript
   - [Svelte](https://svelte.jp/) + TypeScript 実装の大喜利版 [Gartic Phone](https://garticphone.com/ja)
-- **[Password Manager](https://github.com/OUCC/password-manager)** \[Group\]
+- **[Password Manager](https://github.com/OUCC/password-manager)** \[Team\]
   - Simple password manager in [OpenSiv3D](https://siv3d.github.io/en-us/) (C++)
   - [OpenSiv3D](https://siv3d.github.io/ja-jp/) (C++) 実装のシンプルなパスワードマネージャ
-- **[formsclient](https://github.com/watamario15/formsclient)** \[Group\]
+- **[formsclient](https://github.com/watamario15/formsclient)** \[Team\]
   - Forms client in [Flutter 3](https://flutter.dev/)
   - [Flutter 3](https://flutter.dev/) 実装の Forms クライアントアプリ
 
