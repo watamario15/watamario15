@@ -31,6 +31,8 @@
   - Developer's guide on Win32 API programming (GUI, C++)
 - **[SHARP Brain 用アプリケーションの作成方法](https://blog.oucc.org/archives/303)**
   - Guide on [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/) application development
+- **[dotfiles を作ってみた](https://blog.oucc.org/archives/391)**
+  - Diary entry when I first crafted [dotfiles](https://github.com/watamario15/dotfiles)
 - **[テトリスの電子辞書移植](https://blog.oucc.org/archives/490)**
   - What I did to port the (unofficial) [tetris](https://github.com/Yuri213212/tetris) into [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
 - **OUCC の 3 年間を振り返る：[前編](https://blog.oucc.org/archives/835) [中編](https://blog.oucc.org/archives/870) [後編](https://blog.oucc.org/archives/871)**
