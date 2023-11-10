@@ -1,4 +1,4 @@
-## 💻 My works
+## 🎁 My works
 
 - **[Prime Calculator](https://github.com/watamario15/prime-calculator)**
   - Prime-related calculator for Windows and [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
@@ -25,7 +25,7 @@
   - Forms client in [Flutter 3](https://flutter.dev/)
   - [Flutter 3](https://flutter.dev/) 実装の Forms クライアントアプリ
 
-## 📰 My articles
+## 📝 My articles
 
 - **[はじめての Win32 API で GUI アプリを作るレシピ](https://axross-recipe.com/recipes/277)**
   - Developer's guide on Win32 API programming (GUI, C++)
