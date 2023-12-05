@@ -33,11 +33,11 @@
   - Guide on [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/) application development
 - **[dotfiles を作ってみた](http://archive.blog.oucc.org/archives/391)**
   - Diary entry when I first crafted [dotfiles](https://github.com/watamario15/dotfiles)
-- **[テトリスの電子辞書移植](https://oucc.org/blog/490)**
+- **[テトリスの電子辞書移植](https://oucc.org/blog/articles/490)**
   - What I did to port the (unofficial) [tetris](https://github.com/Yuri213212/tetris) into [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
-- **OUCC の 3 年間を振り返る：[前編](https://oucc.org/blog/835) [中編](https://oucc.org/blog/870) [後編](https://oucc.org/blog/871)**
+- **OUCC の 3 年間を振り返る：[前編](https://oucc.org/blog/articles/835) [中編](https://oucc.org/blog/articles/870) [後編](https://oucc.org/blog/articles/871)**
   - Summary of events, struggle, and effort in [Osaka University Computer Club](https://github.com/OUCC) I experienced
-- **[Arduino Uno R3 で Japanino の水晶発振子を有効化する](https://oucc.org/blog/875)**
+- **[Arduino Uno R3 で Japanino の水晶発振子を有効化する](https://oucc.org/blog/articles/875)**
   - Enabling the quartz crystal unit found in [Japanino](https://otonanokagaku.net/japanino/), which is an Japanese magazine implementation of Arduino
 
 ## 📓 Misc
