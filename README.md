@@ -1,31 +1,31 @@
-## 🎁 My works
+## 🎁 Works 🎁
 
-- **[Prime Calculator](https://github.com/watamario15/prime-calculator)**
+- 7️⃣ **[Prime Calculator](https://github.com/watamario15/prime-calculator)**
   - Prime-related calculator for Windows and [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
   - 入力された自然数の素因数分解や指定範囲の素数の列挙を行う [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)向けアプリ
-- **[File Organizer](https://github.com/watamario15/file-organizer)**
+- 📁 **[File Organizer](https://github.com/watamario15/file-organizer)**
   - Organizes a massive amount of files into folders on your Windows and [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
   - 大量のファイルをフォルダに整理する [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)向けアプリ
-- **[Brainfuck for SHARP Brain](https://github.com/watamario15/brainfuck)**
+- 🔣 **[Brainfuck for SHARP Brain](https://github.com/watamario15/brainfuck)**
   - [**Brain**fuck language](https://www.muppetlabs.com/~breadbox/bf/) interpreter and debugger (almost an IDE) for [Sharp **Brain** electronic dictionary](https://jp.sharp/edictionary/)
-  - [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)向け [Brainfuck 言語](https://www.muppetlabs.com/~breadbox/bf/)インタプリタ兼デバッガ（ほぼ IDE）
-- **[KN MemoPad](https://github.com/watamario15/kn-memopad)** \[Improved\]
+  - [SHARP **Brain** 電子辞書](https://jp.sharp/edictionary/)向け [**Brain**fuck 言語](https://www.muppetlabs.com/~breadbox/bf/)インタプリタ兼デバッガ（ほぼ IDE）
+- 🗒️ **[KN MemoPad](https://github.com/watamario15/kn-memopad)** \[Improved\]
   - Tiny text editor for [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
   - [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)向けテキストエディタ
-- **[tetris](https://github.com/OUCC/tetris)** \[Ported\]
+- 🎮 **[tetris](https://github.com/OUCC/tetris)** \[Ported\]
   - Tetris for [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/) (unofficial)
   - [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)向けテトリス（非公式）
-- **[大喜利伝言ゲーム](https://github.com/littlegirl0820/semi-b)** \[Team\]
+- 😆 **[大喜利伝言ゲーム](https://github.com/littlegirl0820/semi-b)** \[Team\]
   - [Gartic Phone](https://garticphone.com/), but adapted for the Japanese comedy "Ohgiri" in [Svelte](https://svelte.dev/) + TypeScript
   - [Svelte](https://svelte.jp/) + TypeScript 実装の大喜利版 [Gartic Phone](https://garticphone.com/ja)
-- **[Password Manager](https://github.com/OUCC/password-manager)** \[Team\]
+- 🔡 **[Password Manager](https://github.com/OUCC/password-manager)** \[Team\]
   - Simple password manager in [OpenSiv3D](https://siv3d.github.io/en-us/) (C++)
   - [OpenSiv3D](https://siv3d.github.io/ja-jp/) (C++) 実装のシンプルなパスワードマネージャ
-- **[formsclient](https://github.com/watamario15/formsclient)** \[Team\]
+- 📓 **[formsclient](https://github.com/watamario15/formsclient)** \[Team\]
   - Forms client in [Flutter 3](https://flutter.dev/)
   - [Flutter 3](https://flutter.dev/) 実装の Forms クライアントアプリ
 
-## 📝 My articles
+## 📰 Articles 📰
 
 - **[はじめての Win32 API で GUI アプリを作るレシピ](https://axross-recipe.com/recipes/277)**
   - Developer's guide on Win32 API programming (GUI, C++)
@@ -34,13 +34,13 @@
 - **[dotfiles を作ってみた](https://oucc.org/blog/articles/391)**
   - Diary entry when I first crafted [dotfiles](https://github.com/watamario15/dotfiles)
 - **[テトリスの電子辞書移植](https://oucc.org/blog/articles/490)**
-  - What I did to port the (unofficial) [tetris](https://github.com/Yuri213212/tetris) into [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
-- **OUCC の 3 年間を振り返る：[前編](https://oucc.org/blog/articles/835) [中編](https://oucc.org/blog/articles/870) [後編](https://oucc.org/blog/articles/871)**
+  - How I ported the (unofficial) [tetris](https://github.com/Yuri213212/tetris) into [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
+- **OUCC の 3 年間を振り返る：[前編 (1st)](https://oucc.org/blog/articles/835) [中編 (2nd)](https://oucc.org/blog/articles/870) [後編 (3rd)](https://oucc.org/blog/articles/871)**
   - Summary of events, struggle, and effort in [Osaka University Computer Club](https://github.com/OUCC) I experienced
 - **[Arduino Uno R3 で Japanino の水晶発振子を有効化する](https://oucc.org/blog/articles/875)**
   - Enabling the quartz crystal unit found in [Japanino](https://otonanokagaku.net/japanino/), which is an Japanese magazine implementation of Arduino
 
-## 📓 Misc
+## 📓 Misc. 📓
 
 - **[XTBook dictionary distribution](https://github.com/watamario15/xtbook)**
   - Distributing XTBook dictionary files compiled from various MediaWiki sites (most of them are automatically processed by GitHub Actions)
