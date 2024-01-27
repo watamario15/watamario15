@@ -12,6 +12,9 @@
 - 🗒️ **[KN MemoPad](https://github.com/watamario15/kn-memopad)** \[Improved\]
   - Tiny text editor for [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
   - [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)向けテキストエディタ
+- 📈 **[Gnuplot 4.4.3 for Windows CE](https://github.com/watamario15/gnuplot-wince)** \[Bugfix\]
+  - Command-line driven graphing utility ported for [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
+  - [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)向けグラフツール
 - 🎮 **[tetris](https://github.com/OUCC/tetris)** \[Ported\]
   - Tetris for [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/) (unofficial)
   - [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)向けテトリス（非公式）
