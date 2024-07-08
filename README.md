@@ -15,6 +15,9 @@
 - 📈 **[Gnuplot 4.4.3 for Windows CE](https://github.com/watamario15/gnuplot-wince)** \[Bugfix\]
   - Command-line driven graphing utility ported for [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
   - [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)に移植されたコマンドラインベースのグラフツール
+- 🖌️ **[JINZO Paint](https://github.com/brain-hackers/jinzo-paint)**, **[JINZO Novel](https://github.com/brain-hackers/jinzo-novel)**, **[Minute Mascot](https://github.com/brain-hackers/minute-mascot)** \[Bugfix, Open-Sourcing\]
+  - Paint tool, reading tool, and mascot tool for Windows CE (including [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/))
+  - Windows CE（[SHARP Brain 電子辞書](https://jp.sharp/edictionary/)含む）向けのペイントツール、読書ツール、マスコットツール
 - 🎮 **[tetris](https://github.com/OUCC/tetris)** \[Ported\]
   - Tetris for [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/) (unofficial)
   - [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)向けテトリス（非公式）
