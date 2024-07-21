@@ -25,8 +25,8 @@
   - [Gartic Phone](https://garticphone.com/), but adapted for the Japanese comedy "Ohgiri" in [Svelte](https://svelte.dev/) + TypeScript
   - [Svelte](https://svelte.jp/) + TypeScript 実装の大喜利版 [Gartic Phone](https://garticphone.com/ja)
 - 🔡 **[Password Manager](https://github.com/OUCC/password-manager)** (C++, Siv3D) \[Team\]
-  - Simple password manager in [OpenSiv3D](https://siv3d.github.io/en-us/) (C++)
-  - [OpenSiv3D](https://siv3d.github.io/ja-jp/) (C++) 実装のシンプルなパスワードマネージャ
+  - Simple password manager in [OpenSiv3D](https://siv3d.github.io/en-us/)
+  - [OpenSiv3D](https://siv3d.github.io/ja-jp/) 実装のシンプルなパスワードマネージャ
 - 📓 **[formsclient](https://github.com/watamario15/formsclient)** (Dart, Flutter) \[Team\]
   - Forms client in [Flutter 3](https://flutter.dev/)
   - [Flutter 3](https://flutter.dev/) 実装の Forms クライアントアプリ
