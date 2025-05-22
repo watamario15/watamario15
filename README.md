@@ -28,7 +28,7 @@
 
 - **[はじめての Win32 API で GUI アプリを作るレシピ](https://axross-recipe.com/recipes/277)** (C++, Win32)
   - Developer's guide on Win32 API programming
-- [OUCC BLOG articles](https://oucc.org/blog/authors/watamario15/), such as...
+- **[OUCC BLOG articles](https://oucc.org/blog/authors/watamario15/)**, such as...
   - **[SHARP Brain 用アプリケーションの作成方法](https://oucc.org/blog/articles/303)** (C++, Win32)
     - Guide on [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/) application development
   - **[テトリスの電子辞書移植](https://oucc.org/blog/articles/490)** (C, Win32)
