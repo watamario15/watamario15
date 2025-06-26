@@ -28,14 +28,14 @@
 
 - **[はじめての Win32 API で GUI アプリを作るレシピ](https://axross-recipe.com/recipes/277)** (C++, Win32)
   - Developer's guide on Win32 API programming
-- **[OUCC BLOG articles](https://oucc.org/blog/authors/watamario15/)**, such as...
-  - **[SHARP Brain 用アプリケーションの作成方法](https://oucc.org/blog/articles/303)** (C++, Win32)
+- **[OUCC BLOG articles](https://oucc.github.io/blog/authors/watamario15/)**, such as...
+  - **[SHARP Brain 用アプリケーションの作成方法](https://oucc.github.io/blog/articles/303)** (C++, Win32)
     - Guide on [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/) application development
-  - **[テトリスの電子辞書移植](https://oucc.org/blog/articles/490)** (C, Win32)
+  - **[テトリスの電子辞書移植](https://oucc.github.io/blog/articles/490)** (C, Win32)
     - How I ported the (unofficial) [tetris](https://github.com/Yuri213212/tetris) into [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
-  - **[Win32 API 実装で古い OS との互換性を切らずに High DPI 対応する](https://oucc.org/blog/articles/2024-12-24-highdpi/)** (C/C++, Win32)
+  - **[Win32 API 実装で古い OS との互換性を切らずに High DPI 対応する](https://oucc.github.io/blog/articles/2024-12-24-highdpi/)** (C/C++, Win32)
     - How to support High DPI in Win32 while keeping the compatibility with old Windows versions (From Win2000 to Win11).
-  - **OUCC の 3 年間を振り返る：[前編 (1st)](https://oucc.org/blog/articles/835) [中編 (2nd)](https://oucc.org/blog/articles/870) [後編 (3rd)](https://oucc.org/blog/articles/871)**
+  - **OUCC の 3 年間を振り返る：[前編 (1st)](https://oucc.github.io/blog/articles/835) [中編 (2nd)](https://oucc.github.io/blog/articles/870) [後編 (3rd)](https://oucc.github.io/blog/articles/871)**
     - Summary of events, struggle, and effort in [Osaka University Computer Club](https://github.com/OUCC) I experienced
 
 ## 📓 Misc. 📓
