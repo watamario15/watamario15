@@ -4,8 +4,8 @@
   - Prime-related calculator for Windows and [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
   - 入力された自然数の素因数分解や指定範囲の素数の列挙を行う [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)向けアプリ
 - 🔣 **[Brainfuck for SHARP Brain](https://github.com/watamario15/brainfuck)** (C++, Win32)
-  - [**Brain**fuck language](https://www.muppetlabs.com/~breadbox/bf/) interpreter and debugger (almost an IDE) for [Sharp **Brain** electronic dictionary](https://jp.sharp/edictionary/)
-  - [SHARP **Brain** 電子辞書](https://jp.sharp/edictionary/)向け [**Brain**fuck 言語](https://www.muppetlabs.com/~breadbox/bf/)インタプリタ兼デバッガ（ほぼ IDE）
+  - [**Brain**fuck language](https://www.muppetlabs.com/~breadbox/bf/) interpreter and debugger for [Sharp **Brain** electronic dictionary](https://jp.sharp/edictionary/)
+  - [SHARP **Brain** 電子辞書](https://jp.sharp/edictionary/)向け [**Brain**fuck 言語](https://www.muppetlabs.com/~breadbox/bf/)インタプリタ兼デバッガ
 - 🗒️ **[KN MemoPad](https://github.com/watamario15/kn-memopad)** (C++, Win32) \[Improved\]
   - Tiny text editor for [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/)
   - [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)向けテキストエディタ
@@ -36,13 +36,13 @@
   - **[Win32 API 実装で古い OS との互換性を切らずに High DPI 対応する](https://oucc.github.io/blog/articles/2024-12-24-highdpi/)** (C/C++, Win32)
     - How to support High DPI in Win32 while keeping the compatibility with old Windows versions (From Win2000 to Win11).
   - **OUCC の 3 年間を振り返る：[前編 (1st)](https://oucc.github.io/blog/articles/835) [中編 (2nd)](https://oucc.github.io/blog/articles/870) [後編 (3rd)](https://oucc.github.io/blog/articles/871)**
-    - Summary of events, struggle, and effort in [Osaka University Computer Club](https://github.com/OUCC) I experienced
+    - Summary of events, struggle, and effort in [Osaka University Computer Club](https://github.com/OUCC) administration I experienced
 
 ## 📓 Misc. 📓
 
 - **[XTBook dictionary distribution](https://github.com/watamario15/xtbook)**
-  - Distributing XTBook dictionary files compiled from various MediaWiki sites (most of them are automatically processed by GitHub Actions)
-  - 様々な MediaWiki サイトから生成した XTBook 辞書ファイルを配布（ほとんどは GitHub Actions による自動生成）
+  - Distributing XTBook dictionary files compiled from various MediaWiki sites (automated through GitHub Actions)
+  - 様々な MediaWiki サイトから生成した XTBook 辞書ファイルを配布（GitHub Actions で自動化）
 - **[Brain Wiki](https://brain.fandom.com/ja/wiki/Brain_Wiki) administrator**
   - Improved overall contents, authored development and [EX-word](https://exword.jp/) related articles, and moderation
   - 全体的な改善、開発や [EX-word](https://exword.jp/) 関連の記事の拡充、管理作業
