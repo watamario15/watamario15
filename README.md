@@ -18,6 +18,9 @@
 - 🎮 **[tetris](https://github.com/OUCC/tetris)** (C, Win32) \[Ported\]
   - Tetris for [Sharp Brain electronic dictionary](https://jp.sharp/edictionary/) (unofficial)
   - [SHARP Brain 電子辞書](https://jp.sharp/edictionary/)向けテトリス（非公式）
+- 🛩️ **[Simple STG](https://github.com/watamario15/shooting)** (HSP3Dish)
+  - Simple horizontal infinite 2D pixel STG, with items and boss, available for Windows, Linux, Android, and Web
+  - Windows, Linux, Android, and Web で遊べる、アイテムとボスが出現するシンプルなドット絵無限 2D 横シューティングゲーム
 - 😆 **[大喜利伝言ゲーム](https://github.com/littlegirl0820/semi-b)** (TypeScript, Svelte) \[Team\]
   - [Gartic Phone](https://garticphone.com/), but adapted for the Japanese comedy "Ohgiri" in [Svelte](https://svelte.dev/) + TypeScript
   - [Svelte](https://svelte.jp/) + TypeScript 実装の大喜利版 [Gartic Phone](https://garticphone.com/ja)
