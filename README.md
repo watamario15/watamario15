@@ -24,6 +24,9 @@
 - 😆 **[大喜利伝言ゲーム](https://github.com/littlegirl0820/semi-b)** (TypeScript, Svelte) \[Team\]
   - [Gartic Phone](https://garticphone.com/), but adapted for the Japanese comedy "Ohgiri" in [Svelte](https://svelte.dev/) + TypeScript
   - [Svelte](https://svelte.jp/) + TypeScript 実装の大喜利版 [Gartic Phone](https://garticphone.com/ja)
+- 🎵 [Rhythm Game for Arduino](https://github.com/watamario15/rhythm-arduino)** (C++, Arduino)
+  - Simple rhythm game similar to Taiko no Tatsujin for Arduino UNO R3
+  - Arduino UNO R3 向けの、シンプルな太鼓の達人的ないわゆる「音ゲー」
 
 ... and [more](https://github.com/watamario15?tab=repositories)!
 
